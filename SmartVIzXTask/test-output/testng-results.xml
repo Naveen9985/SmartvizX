@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Opened Amazon]]>
+    </line>
+    <line>
+      <![CDATA[Search for Redmi Note]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on search Button]]>
+    </line>
+    <line>
+      <![CDATA[Search for Redmi Y2 (Rose Gold, 3GB RAM, 32GB Storage) ]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on search again]]>
+    </line>
+    <line>
+      <![CDATA[Redmi Y2 (Rose Gold, 3GB RAM, 32GB Storage) is not found or out of stock]]>
+    </line>
+    <line>
+      <![CDATA[Application closed]]>
+    </line>
+  </reporter-output>
+  <suite name="Amazon shopping" duration-ms="123788" started-at="2020-01-14T08:37:47Z" finished-at="2020-01-14T08:39:51Z">
+    <groups>
+    </groups>
+    <test name="Amazon" duration-ms="123788" started-at="2020-01-14T08:37:47Z" finished-at="2020-01-14T08:39:51Z">
+      <class name="com.TestScripts.TestAmazon">
+        <test-method status="PASS" signature="case_101()[pri:0, instance:com.TestScripts.TestAmazon@6842775d]" name="case_101" duration-ms="123740" started-at="2020-01-14T14:07:47Z" finished-at="2020-01-14T14:09:51Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Opened Amazon]]>
+            </line>
+            <line>
+              <![CDATA[Search for Redmi Note]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on search Button]]>
+            </line>
+            <line>
+              <![CDATA[Search for Redmi Y2 (Rose Gold, 3GB RAM, 32GB Storage) ]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on search again]]>
+            </line>
+            <line>
+              <![CDATA[Redmi Y2 (Rose Gold, 3GB RAM, 32GB Storage) is not found or out of stock]]>
+            </line>
+            <line>
+              <![CDATA[Application closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- case_101 -->
+      </class> <!-- com.TestScripts.TestAmazon -->
+    </test> <!-- Amazon -->
+  </suite> <!-- Amazon shopping -->
+</testng-results>

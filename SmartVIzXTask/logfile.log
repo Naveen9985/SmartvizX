@@ -1,0 +1,14 @@
+2020-01-14 13:50:30,703 INFO  [Log] *******started execution*********** 
+2020-01-14 13:50:55,660 INFO  [Log] *******Opened Amazon*********** 
+2020-01-14 13:51:05,278 INFO  [Log] *******Search for Redmi Note*********** 
+2020-01-14 13:51:18,276 INFO  [Log] *******Clicked on search Button*********** 
+2020-01-14 13:51:23,008 INFO  [Log] *******Search for Redmi Y2 (Rose Gold, 3GB RAM, 32GB Storage)*********** 
+2020-01-14 13:51:36,410 INFO  [Log] *******Clicked on search again*********** 
+2020-01-14 13:52:20,330 INFO  [Log] *******Redmi Y2 (Rose Gold, 3GB RAM, 32GB Storage) is not found or out of stock*********** 
+2020-01-14 14:08:06,189 INFO  [Log] *******started execution*********** 
+2020-01-14 14:08:50,979 INFO  [Log] *******Opened Amazon*********** 
+2020-01-14 14:08:56,891 INFO  [Log] *******Search for Redmi Note*********** 
+2020-01-14 14:09:05,104 INFO  [Log] *******Clicked on search Button*********** 
+2020-01-14 14:09:06,526 INFO  [Log] *******Search for Redmi Y2 (Rose Gold, 3GB RAM, 32GB Storage)*********** 
+2020-01-14 14:09:10,851 INFO  [Log] *******Clicked on search again*********** 
+2020-01-14 14:09:51,210 INFO  [Log] *******Redmi Y2 (Rose Gold, 3GB RAM, 32GB Storage) is not found or out of stock*********** 
